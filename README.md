@@ -1,3 +1,2 @@
 # Android-Map-Direction
-This is an android map direction project to go from one place to another. The user can go from the current location to a tapped location, the destination with the help of it. 
-I have implemented the Google Direction API to draw a driving route.
+This Android project provides map-based navigation, allowing users to get directions from their current location to a selected destination by tapping on the map. I integrated the Google Directions API to display real-time driving routes, enabling smooth and accurate navigation between points. The app enhances user experience by offering a simple and intuitive way to explore routes and reach destinations efficiently.
